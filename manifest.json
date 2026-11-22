@@ -290,6 +290,176 @@
       ],
       "ast": [
         "aggregate/ast/dd9e9f920494f24b9b8dd954ec9d07e0b9d12817/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/dd9e9f920494f24b9b8dd954ec9d07e0b9d12817.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "autoprefixer",
+          "ecosystem": "NPM",
+          "version": "10.4.19",
+          "githubOrg": "postcss",
+          "githubRepo": "autoprefixer",
+          "githubCommit": "8060e33a78f39759f32781dd3518dae90740dc38",
+          "githubTag": "10.4.19",
+          "githubUrl": "git+https://github.com/postcss/autoprefixer.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "css-loader",
+          "ecosystem": "NPM",
+          "version": "7.1.2",
+          "githubOrg": "webpack",
+          "githubRepo": "css-loader",
+          "githubCommit": "d5ba44ae2e0bf20d31fe43fd7a2c467937dde97d",
+          "githubTag": "v7.1.2",
+          "githubUrl": "git+https://github.com/webpack/css-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "css-minimizer-webpack-plugin",
+          "ecosystem": "NPM",
+          "version": "7.0.0",
+          "githubOrg": "webpack",
+          "githubRepo": "css-minimizer-webpack-plugin",
+          "githubCommit": "1c57d887606f0951d51a384bf6a267d1d2c58ae3",
+          "githubTag": "v7.0.0",
+          "githubUrl": "git+https://github.com/webpack/css-minimizer-webpack-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mini-css-extract-plugin",
+          "ecosystem": "NPM",
+          "version": "2.9.0",
+          "githubOrg": "webpack",
+          "githubRepo": "mini-css-extract-plugin",
+          "githubCommit": "7cc27899d6695e083027de1988aa2e21d47a2334",
+          "githubTag": "v2.9.0",
+          "githubUrl": "git+https://github.com/webpack/mini-css-extract-plugin.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "normalize.css",
+          "ecosystem": "NPM",
+          "version": "8.0.1",
+          "githubOrg": "necolas",
+          "githubRepo": "normalize.css",
+          "githubCommit": "fc091cce1534909334c1911709a39c22d406977b",
+          "githubTag": "8.0.1",
+          "githubUrl": "git+https://github.com/necolas/normalize.css.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss-loader",
+          "ecosystem": "NPM",
+          "version": "8.1.1",
+          "githubOrg": "webpack",
+          "githubRepo": "postcss-loader",
+          "githubCommit": "d2651fc170cf9a835d7ceeefaf96c213c05955db",
+          "githubTag": "v8.1.1",
+          "githubUrl": "git+https://github.com/webpack/postcss-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass",
+          "ecosystem": "NPM",
+          "version": "1.77.6",
+          "githubOrg": "sass",
+          "githubRepo": "dart-sass",
+          "githubCommit": "7aae1e67ed3322c1caab1c8ebb2f5c28ff0b2e0b",
+          "githubTag": "1.77.6",
+          "githubUrl": "git+https://github.com/sass/dart-sass.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sass-loader",
+          "ecosystem": "NPM",
+          "version": "16.0.0",
+          "githubOrg": "webpack",
+          "githubRepo": "sass-loader",
+          "githubCommit": "729f8c9200a31bbe26c285c357990048378b4ac4",
+          "githubTag": "v16.0.0",
+          "githubUrl": "git+https://github.com/webpack/sass-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "style-loader",
+          "ecosystem": "NPM",
+          "version": "4.0.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "style-loader",
+          "githubCommit": "091d37d68abfb071c4fbdd335385cd6f1af114c6",
+          "githubTag": "v4.0.0",
+          "githubUrl": "git+https://github.com/webpack-contrib/style-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack",
+          "ecosystem": "NPM",
+          "version": "5.92.1",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "a82e0cd00e26d8452295f0d680417e4656a6d7cc",
+          "githubTag": "v5.92.1",
+          "githubUrl": "git+https://github.com/webpack/webpack.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack-cli",
+          "ecosystem": "NPM",
+          "version": "6.0.0",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack-cli",
+          "githubUrl": "git+https://github.com/webpack/webpack-cli.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "7.0",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-basic-ng",
+          "ecosystem": "PYPI",
+          "version": "1.0.0.",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "sphinx-basic-ng",
+          "githubUrl": "https://github.com/pradyunsg/sphinx-basic-ng",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.7",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "accessible-pygments",
+          "ecosystem": "PYPI",
+          "version": "0.0.5",
+          "githubOrg": "Quansight-Labs",
+          "githubRepo": "accessible-pygments",
+          "githubCommit": "7e618765289e7ea1fe9a54e7c1e4681988d19c4c",
+          "githubTag": "v0.0.5",
+          "githubUrl": "https://github.com/Quansight-Labs/accessible-pygments",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/packaging/version.py"
+        }
       ]
     }
   ],
